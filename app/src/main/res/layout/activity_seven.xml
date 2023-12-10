@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView131"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="24dp"
+        android:text="Для защиты ваших персональных данных"
+        android:textColor="#939396"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView190" />
+
+    <TextView
+        android:id="@+id/textView190"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="108dp"
+        android:layout_marginTop="92dp"
+        android:text="Создайте пароль"
+        android:textSize="24dp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button122"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="156dp"
+        android:layout_marginBottom="392dp"
+        android:background="@drawable/df"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:text="2"
+        android:textSize="30dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button303"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="44dp"
+        android:layout_marginBottom="392dp"
+        android:background="@drawable/df"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:text="1"
+        android:textSize="30dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button2"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="272dp"
+        android:layout_marginBottom="392dp"
+        android:background="@drawable/df"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:text="3"
+        android:textSize="30dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button29"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="44dp"
+        android:layout_marginBottom="276dp"
+        android:background="@drawable/df"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:text="4"
+        android:textSize="30dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button30"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="272dp"
+        android:layout_marginBottom="276dp"
+        android:background="@drawable/df"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:text="6"
+        android:textSize="30dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button20"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="44dp"
+        android:layout_marginBottom="160dp"
+        android:background="@drawable/df"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:text="7"
+        android:textSize="30dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button17"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="156dp"
+        android:layout_marginBottom="160dp"
+        android:background="@drawable/df"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:text="8"
+        android:textSize="30dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button19"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="272dp"
+        android:layout_marginBottom="160dp"
+        android:background="@drawable/df"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:text="9"
+        android:textSize="30dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button12"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="156dp"
+        android:layout_marginBottom="52dp"
+        android:background="@drawable/df"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:text="9"
+        android:textSize="30dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button42"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="156dp"
+        android:layout_marginBottom="276dp"
+        android:background="@drawable/df"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:text="5"
+        android:textSize="30dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+    <TextView
+        android:id="@+id/textView120"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="56dp"
+        android:layout_marginEnd="20dp"
+        android:text="Пропустить"
+        android:textColor="#1A6FEE"
+        android:textSize="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView102"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="80dp"
+        android:layout_marginBottom="80dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/del" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
